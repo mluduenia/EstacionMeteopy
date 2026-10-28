@@ -1,0 +1,21 @@
+# Entornos virtuales
+venv/
+env/
+.venv/
+
+# Archivos de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Archivos de sistema (Windows/Mac)
+.DS_Store
+Thumbs.db
+
+# Archivos de configuración local o secretos
+.env
+config.ini
+
+# Logs
+*.log
